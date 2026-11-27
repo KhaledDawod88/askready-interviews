@@ -1,0 +1,32 @@
+[
+  {
+    "q": "Tell me about yourself",
+    "weak": "I was born in Alexandria, I studied commerce, I like football and music.",
+    "strong": "I'm a data analyst with 5 years in reporting. Recently I automated a weekly report and saved 6 hours. I'm looking to grow into analytics engineering.",
+    "formula": "Present, past, future. Current role, one proof point, why this job. Keep it under 60 seconds."
+  },
+  {
+    "q": "What is your biggest weakness?",
+    "weak": "I work too hard and I'm a perfectionist.",
+    "strong": "I used to say yes to every request. Now I prioritise with my manager each Monday and my deadlines are met.",
+    "formula": "Real weakness, what you did about it, the result. Never pick a core skill of the job."
+  },
+  {
+    "q": "Why should we hire you?",
+    "weak": "Because I need this job and I'm a hard worker.",
+    "strong": "You need someone to cut reporting time. I did exactly that at my last job, from 2 days to 3 hours, and I can do it here.",
+    "formula": "Their need, your proof, your result. Match your best story to their job post."
+  },
+  {
+    "q": "Describe a conflict at work",
+    "weak": "My coworker was lazy so I did everything myself.",
+    "strong": "We disagreed on a deadline. I listened, shared the data, and we agreed a split plan. We delivered on time.",
+    "formula": "STAR: Situation, Task, Action, Result. Stay calm and never blame a person."
+  },
+  {
+    "q": "Where do you see yourself in 5 years?",
+    "weak": "Honestly, I haven't thought about it.",
+    "strong": "Growing into a senior analyst who mentors others, and contributing to this team's goals while I learn.",
+    "formula": "Show growth that fits the company, not a plan to leave. Be honest and specific."
+  }
+]
